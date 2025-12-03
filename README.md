@@ -37,4 +37,4 @@ Hi there 👋 I'm **Guilherme Martins**, welcome to my GitHub profile!
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/guilherme-martins-9a680134b/)
-- [Twitter](x.com/fullstackgui)
+- [Twitter](https://x.com/fullstackgui)
